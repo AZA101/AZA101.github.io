@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>星蓝行</title>
+  
+  
+  <link href="/atom.xml" rel="self"/>
+  
+  <link href="http://aza101.github.io/"/>
+  <updated>2020-04-13T03:23:44.196Z</updated>
+  <id>http://aza101.github.io/</id>
+  
+  <author>
+    <name>AZA101</name>
+    
+  </author>
+  
+  <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>linux和win10连接互访</title>
+    <link href="http://aza101.github.io/2020/03/30/config/"/>
+    <id>http://aza101.github.io/2020/03/30/config/</id>
+    <published>2020-03-30T15:24:11.000Z</published>
+    <updated>2020-04-13T03:23:44.196Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;h3&gt;注意：&lt;/h3&gt;
+
+&lt;p&gt;&lt;strong&gt;这不是虚拟机上的linux和win10互访，虚拟机上的linux系统ping不通win10，绝大数情况下改为桥接模式即可ping通。&lt;/strong&gt;&lt;/p&gt;
+&lt;hr&gt;
+&lt;p&gt;物理机下的linux系统和win10互ping,先要保
+        
+      
+    
+    </summary>
+    
+    
+    
+      <category term="linux、nginx" scheme="http://aza101.github.io/tags/linux%E3%80%81nginx/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Hello World</title>
+    <link href="http://aza101.github.io/2020/03/30/hello-world/"/>
+    <id>http://aza101.github.io/2020/03/30/hello-world/</id>
+    <published>2020-03-30T15:12:07.710Z</published>
+    <updated>2020-03-30T15:12:07.710Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;p&gt;Welcome to &lt;a href=&quot;https://hexo.io/&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;Hexo&lt;/a&gt;! This is your very first post. Check &lt;a
+        
+      
+    
+    </summary>
+    
+    
+    
+  </entry>
+  
+</feed>
